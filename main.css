@@ -1,0 +1,30 @@
+#main{
+	display: grid;
+	grid-template-rows: auto auto;
+	grid-template-columns: 30% 70%;
+}
+
+#
+
+h1{
+	color: #d1d8e0;
+	text-decorations: underline;
+	text-transform: uppercase;
+}
+
+h2{
+	color: #2f3542;
+}
+
+h3{
+	color: #747d8c;
+}
+
+p{
+	color: #778ca3;
+}
+
+body {
+
+	background-color: #3c6382;
+}
